@@ -1,4 +1,4 @@
-In this PHP Laravel framework-based project, users are redirected to different dashboards from a single login page. For example, when the admin of the system inputs their credentials, they are directed to the admin dashboard. Similarly, if a client enters their credentials on the same login page, they are redirected to the client dashboard. Steps To Setup this Project
+In this Laravel Login System PHP Laravel framework-based project, users are redirected to different dashboards from a single login page. For example, when the admin of the system inputs their credentials, they are directed to the admin dashboard. Similarly, if a client enters their credentials on the same login page, they are redirected to the client dashboard. Steps To Setup this Project
 
 Clone Repository or Download Project.
 Put this project inside wampserver www folder.
