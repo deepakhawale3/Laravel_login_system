@@ -1,3 +1,14 @@
+In this PHP Laravel framework-based project, users are redirected to different dashboards from a single login page. For example, when the admin of the system inputs their credentials, they are directed to the admin dashboard. Similarly, if a client enters their credentials on the same login page, they are redirected to the client dashboard. Steps To Setup this Project
+
+Clone Repository or Download Project.
+Put this project inside wampserver www folder.
+create Database and import given SQL file inside database.
+make changes in .env file.(Change Database name)
+To start project start your wampserver and type http://localhost/{{foldername}}/ in browser.
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
